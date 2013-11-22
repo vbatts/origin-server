@@ -30,4 +30,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rake', '>= 0.8.7',)
   s.add_development_dependency('bundler')
   s.add_development_dependency('mocha')
+  s.add_development_dependency('simplecov')
 end
